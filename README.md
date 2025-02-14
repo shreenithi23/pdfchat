@@ -1,4 +1,6 @@
+# PDF Chat App
 
+This is a AI driven PDF chat bot app which allows you to upload single or multiple pdf's at a time and converse with it. 
 ## Installation
 
 Install this project with the following steps:
